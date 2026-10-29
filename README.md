@@ -4,7 +4,7 @@
       ::i11111111111111111i;.         Host: ....................... Reiser Simulation and Training
     :i11111111111111111111111;        Role: ........................ Apprentice Software Developer
    :1111i11ii11111111111111111i       Focus: ................. C++, simulation, technical software
-  :11111::;;;:;iii;;;iiiiii1111;      Graduation: ......................... August 2027 (expected)
+  :11111::;;;:;iii;;;iiiiii1111;      Graduation: .................................... August 2027 
   ;1111::::::::::::::::::::i111i
   ;11i::::::::::::::::::::::111i      Languages.Code: ........................ C++, C#, TypeScript
   ;11;:::;;::::::::::::;;::::11i      Frameworks: ............. Qt, GL Studio, .NET, React, raylib
